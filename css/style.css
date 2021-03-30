@@ -1,0 +1,58 @@
+ body header{
+
+    background-color: rgba(96, 96, 96,0.6);
+    height: 50px;
+    margin-bottom: 50px;
+    
+  
+}
+li{
+    display: inline-block;
+  
+}
+main{
+    overflow: hidden;
+}
+
+main form{
+    display: block;
+    padding-top: 50px;
+    margin-bottom: 200px;
+    background-color: rgba(96, 96, 96,0.6);
+    color: black;
+    height: 300px;
+    width: 700px;
+    float: left;
+    
+    margin-right: 50px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+select{
+    margin-bottom: 20px;
+}
+
+textarea{
+    margin-bottom: 20px;
+}
+div{
+    display: inline-block;
+}
+
+
+
+main section{
+    padding-top: 50px;
+    margin-bottom: 200px;
+    background-color: rgba(96, 96, 96,0.6);
+    color: black;
+    height: 300px;
+    width: 700px;
+    float: left;
+    margin-right: 50px;
+    
+   
+}
